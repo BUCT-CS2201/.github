@@ -1,12 +1,37 @@
-## Hi there 👋
+# 海外藏中国文物知识管理与服务平台
 
-<!--
+## 开发团队
 
-**Here are some ideas to get you started:**
+计科2201软件工程团队
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 功能模块
+
+### 1. 知识图谱构建子系统 🕸️
+
+从海外博物馆网站自动采集中国文物信息，构建完整的文物知识图谱。支持数据爬取、三元组转化、知识补充与存储到图数据库。
+
+[查看知识图谱构建子系统仓库](https://github.com/buct-cs2201/cultural-relics-kg)
+
+### 2. 海外文物知识服务子系统 (Web端) 🏛️
+
+提供多样化的文物浏览、查询和可视化功能的Web平台。支持文物详情展示、相关推荐及知识图谱可视化展现。
+
+[查看Web服务子系统仓库](https://github.com/buct-cs2201/cultural-relics-web)
+
+### 3. 知识问答子系统 🤖
+
+基于大语言模型技术构建的文物知识智能问答系统。支持针对文物收藏地、时代、材质等多种属性的精准查询问答。
+
+[查看知识问答子系统仓库](https://github.com/buct-cs2201/cultural-relics-qa)
+
+### 4. 掌上博物馆 (App) 📱
+
+便携式移动博物馆应用，提供文物浏览和丰富的用户交互功能。支持文物搜索、以图搜图、点赞评论及用户个性化内容分享。
+
+[查看掌上博物馆App仓库](https://github.com/buct-cs2201/cultural-relics-app)
+
+### 5. 后台管理子系统 ⚙️
+
+全面的数据和用户管理后台，确保系统安全可靠运行。提供用户权限管理、内容审核、数据备份恢复及日志记录功能。
+
+[查看后台管理子系统仓库](https://github.com/buct-cs2201/cultural-relics-admin)
