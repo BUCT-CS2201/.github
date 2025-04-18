@@ -14,7 +14,7 @@
 
 提供多样化的文物浏览、查询和可视化功能的Web平台。支持文物详情展示、相关推荐及知识图谱可视化展现。
 
-[查看Web服务子系统仓库](https://github.com/buct-cs2201/cultural-relics-web)
+[查看Web服务子系统仓库](https://github.com/BUCT-CS2201/KnowledgeServices)
 
 ## 🤖知识问答子系统 
 
@@ -26,10 +26,10 @@
 
 便携式移动博物馆应用，提供文物浏览和丰富的用户交互功能。支持文物搜索、以图搜图、点赞评论及用户个性化内容分享。
 
-[查看掌上博物馆App仓库](https://github.com/buct-cs2201/cultural-relics-app)
+[查看掌上博物馆App仓库](https://github.com/BUCT-CS2201/HandheldMuseum)
 
 ## ⚙️后台管理子系统 
 
 全面的数据和用户管理后台，确保系统安全可靠运行。提供用户权限管理、内容审核、数据备份恢复及日志记录功能。
 
-[查看后台管理子系统仓库](https://github.com/buct-cs2201/cultural-relics-admin)
+[查看后台管理子系统仓库](https://github.com/BUCT-CS2201/BackendManagement)
